@@ -1,0 +1,20 @@
+{
+  "name": "agent-quantum",
+  "version": "0.1.0",
+  "private": false,
+  "description": "Quantum agent state: superpositions of candidate answers, weighted observation, amplification, and entangled pairs.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc -p tsconfig.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theAliCanAcar/agent-quantum.git"
+  },
+  "bugs": {
+    "url": "https://github.com/theAliCanAcar/agent-quantum/issues"
+  },
+  "homepage": "https://github.com/theAliCanAcar/agent-quantum#readme"
+}
